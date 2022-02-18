@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952562779306",
+    "firebase_url": "https://mycloset-64d5c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mycloset-64d5c",
+    "storage_bucket": "mycloset-64d5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952562779306:android:7adf16347fa85436c23cd3",
+        "android_client_info": {
+          "package_name": "com.example.mycloset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952562779306-p4pc2g4dr1lcg739lesmhl73ot2af1mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkno7psoyU0p8JctTRVPJQWjtUP7DzOLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952562779306-p4pc2g4dr1lcg739lesmhl73ot2af1mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
