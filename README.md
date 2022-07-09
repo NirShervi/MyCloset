@@ -1,5 +1,5 @@
 # MyCloset App
-## Introdaction
+## Introduction
 MyCloset is an application that help users manage their cloths in the closet, they can add,remove and search their cloths without opening the closet and from everywhere.
 
 ## Tools
